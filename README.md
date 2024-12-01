@@ -10,4 +10,4 @@ For data storage, import JSON is used for this program.
 
 Open source. Please credit me if you use wish to improve on this repository.
 
-© cyberrgrl 2024
+© cybrrgrl 2024
