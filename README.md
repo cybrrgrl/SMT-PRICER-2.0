@@ -6,7 +6,7 @@ Runs on WINDOWS only. MAC OS version is coming soon, as well as Linux.
 
 Uses PILLOW, Treeview and Tkinter for the GUI.
 
-For data storage, import JSON is used for this program.
+For data storage, import JSON is used for this program. Treeview serves the purpose the data information and storage.
 
 Open source. Please credit me if you use wish to improve on this repository.
 
